@@ -1,0 +1,174 @@
+.wrapper{
+    width: 1600px;
+    height: 700px;
+    background-image: url(../img/dog3.jpg);
+    
+    
+    
+
+}
+.headerbox{
+    width: 1400p;
+    height: 80px;
+    background-color: rgba(0000, 0000,0000, 0.3);
+    
+}
+.logobox{
+    width: 100px;
+    height: 80px;
+    
+    float: left;
+   
+}
+.logo{
+    width: 100px;
+    height: 80px;
+ 
+
+}
+.LogoName{
+    width: 170px;
+    height: 80px;
+    
+    float: left;
+    padding-left: 10px;
+    line-height: 40px;
+    font-family: cursive;
+    font-size: 20px;
+    color: white;
+
+   
+}
+.menubox{
+    width: auto;
+    height: 80px;
+    
+    text-align: center;
+    line-height: 80px;
+    float: right;
+    padding-right: 25px;
+    
+
+    
+}
+.menubox a{
+    text-decoration: none;
+    color:white;
+    padding-right: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.spacebox{
+    width: 1600px;
+    height: 200px;
+    
+}
+.contentbox{
+    width: 1000px;
+    height: 400px;
+    color: white;
+    margin-left: 100px;
+    
+    
+}
+.p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+}
+.button{
+    background-color: white;
+    border-radius: 30px;
+    border: none;
+    width: 200px;
+    height: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    font-weight: 100;
+    
+    
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
+
+.picturebox{
+    width: 1200px;
+    height: 300px;
+   
+    margin-left: 400px;
+    margin-top: 500px;
+}
+.pictures{
+    width: 200px;
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+    border-radius: 10px;
+}
+.pictures:hover{
+    transition: 2s;
+    width: 350px;
+    height: 350px;
+}
+.fb{
+    
+    width: 300px;
+    height: 250px;
+    margin-top: 100px;
+    padding-left: 10px;
+    
+   
+    
+
+}
+.fa-square-facebook{
+    font-size: 35px;
+    color: rgb(83, 81, 240);
+    float: left;
+    padding-left: 20px;
+    
+
+    
+}
+.fa-square-twitter{
+    font-size: 35px;
+    color: aqua;
+    float: left;
+    padding-left: 20px;
+    
+
+}
+.fa-square-youtube{
+    font-size: 35px;
+    color: crimson;
+    float: left;
+    padding-left: 20px;
+    
+    
+}
+.fa-square-facebook:hover{
+    font-size: 70px;
+    transition: 0.5s;
+    
+}
+.fa-square-twitter:hover{
+    font-size: 70px;
+    transition: 0.5s;
+}
+.fa-square-youtube:hover{
+    font-size: 70px;
+    transition: 0.5s;
+} 
+.footer{
+    background-color: black;
+    width: 1600px ;
+    height: 100px;
+}
+.name{
+    padding-top: 50px;
+}   
+       
+    
